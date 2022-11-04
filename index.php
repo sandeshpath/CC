@@ -1,0 +1,1 @@
+<?php include_once('./Pract_9.html');?>
